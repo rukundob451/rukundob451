@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...FrontEnd Development
-- 🌱 I’m currently learning ...php and sql
+- 🌱 I’m currently learning ...dartand building some applications with flutter not forgettin php and sql
 - 👯 I’m looking to collaborate on ...FrontEnd Related projects 
 - 🤔 I’m looking for help with ...CSS
 - 📫 How to reach me: ...https://www.linkedin.com/in/benjamin-rukundo-539ab01a6/
@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 ![My stats](https://github-readme-stats.vercel.app/api?username=rukundob451)
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukundob451&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rukundob451"/></td></tr></table>
+  
+  ### 💘 Most Used Languages:-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukundob451&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/rukundob451/github-readme-stats)
+
