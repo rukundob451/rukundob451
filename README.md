@@ -39,6 +39,10 @@ Here are some ideas to get you started:
   
   ### Most Used Languages:-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukundob451&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/rukundob451/github-readme-stats)
+  
+  ### Github Trophies:-
+[![trophy](https://github-profile-trophy.vercel.app/?username=rukundob451&theme=gruvbox)](https://github.com/rukundob451/github-profile-trophy)
+
 
 ### Github Activity Graph:-
 [![Benjamin Rukundo's github activity graph](https://activity-graph.herokuapp.com/graph?username=rukundob451&theme=react-dark)](https://github.com/rukundob451/github-readme-activity-graph)
