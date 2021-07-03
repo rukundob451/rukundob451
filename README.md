@@ -1,3 +1,4 @@
+<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right"> </h1>
 ### Hi there 👋 I'm Benjamin
 Here are some ideas to get you started:
 
