@@ -1,11 +1,10 @@
-<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right"> </h1>
 ### Hi there 👋 I'm Benjamin,am a passionate programmer from Uganda.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...FrontEnd Development
-- 🌱 I’m currently learning ...dartand building some applications with flutter not forgettin php and sql
-- 👯 I’m looking to collaborate on ...FrontEnd Related projects 
-- 🤔 I’m looking for help with ...CSS
+- 🔭 I’m currently working on ...Flutter Application Development
+- 🌱 I’m currently learning ...dart and building applications with flutter
+- 👯 I’m looking to collaborate on ...Flutter projects
+- 🤔 I’m looking for help with ...CSS and flutter in general
 - 📫 How to reach me: ...https://www.linkedin.com/in/benjamin-rukundo-539ab01a6/
 - ⚡ Fun fact: ...Really love technology and exploring new things about it
 
