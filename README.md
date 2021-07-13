@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Flutter Application Development using the dart programming language 
 - 🌱 I’m currently learning ...dart and building applications with flutter framework
 - 👯 I’m looking to collaborate on ...Flutter projects
-- 🤔 I’m looking for help with ...CSS and flutter in general
+- 🤔 I’m looking for help with ...database integration with flutter and php
 - 📫 How to reach me: ...https://www.linkedin.com/in/benjamin-rukundo-539ab01a6/
 - ⚡ Fun fact: ...Really love technology and exploring new things about it that is building things with it
 
