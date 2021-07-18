@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm Benjamin,am a passionate programmer from Uganda.
-Here are some ideas to get you started:
+Here is what am upto:
 
 - 🔭 I’m currently working on ...Flutter Application Development using the dart programming language 
 - 🌱 I’m currently learning ...flutter and using the dart programming language to develop mobile applications.
 - 👯 I’m looking to collaborate on ...Flutter projects
-- 🤔 I’m looking for help with ...backend with flutter and php
+- 🤔 I’m looking for help with ...backend with flutter and php with laravel inclusive
 - 📫 How to reach me: ...https://www.linkedin.com/in/benjamin-rukundo-539ab01a6/
 - ⚡ Fun fact: ...Really like getting to learn new things in technology and putting them to it to use and a php enthusiast.
 
 ------------------------
-<summary>☎️ <b>Get in touch?<b></summary>
+<summary>☎️ <b>Get in touch a<b></summary>
 <br>
 <p align = "center">
   
