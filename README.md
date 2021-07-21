@@ -5,7 +5,7 @@ Here is what am upto:
 - 🌱 I’m currently learning ...flutter and dart programming language to develop vast mobile applications.
 - 👯 I’m looking to collaborate on ...Flutter projects
 - 🤔 I’m looking for help with ...backend with flutter and php with laravel framework
-- 📫 How to reach me: ...rukundob32@gmail.com
+- 📫 How to reach me: ...rukundob32@gmail.com and benja_rukundo
 - ⚡ Fun fact: ...Really like getting to learn new things in technology and putting them to it to use and a php enthusiast. learning and striving to make a difference
 
 ------------------------
