@@ -21,9 +21,7 @@
  <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/c++-%23F05033.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sql-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flutter-%23339933.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> -->
 
 </p>
