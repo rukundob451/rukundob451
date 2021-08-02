@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter Application Development using the dart programming language 
 - 🌱 I’m currently learning Flutter and Dart languages to develop vast mobile applications and PHP
 - 👯 I’m looking to collaborate on Flutter projects
-- 🤔 I’m looking for help with PHP with laravel framework
+- 🤔 I’m looking for help with Data Structures and Algorithms
 - 📫 How to reach me: rukundob32@gmail.com
 - ⚡ Fun fact: Really like getting to learn new things in technology and putting them to it to use and a PHP enthusiast, learning, and striving to make a difference.
 
