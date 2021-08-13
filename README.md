@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter and Dart languages to develop vast mobile applications and PHP
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- ⚡ Fun fact: Enjoy learning and striving to make a difference each and everyday.
+- ⚡ Fun fact: Learning and striving to make a difference each and everyday.
 
 ------------------------
 ## ☎️ Get in touch
