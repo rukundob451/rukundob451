@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter Development for Applications using dart programming language, python with Flask
 - 🌱 I’m currently learning Flutter and Dart languages to develop vast mobile applications and PHP
 - 👯 I’m looking to collaborate on Flutter projects
-- 🤔 I’m looking for help with Data Structures and Algorithms
+- 🤔 I’m looking for help with Data Structures and Algorithms in java
 - ⚡ Fun fact: Learning and striving to make a difference each and everyday.
 
 ------------------------
