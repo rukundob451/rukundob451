@@ -1,6 +1,6 @@
 ### Hi, I'm Benjamin, a passionate programmer from Kampala, Uganda 👋
 
-- 🔭 I’m currently working with Flutter Development for Applications with the dart programming language and Flask
+- 🔭 I’m currently working with Flutter Development for Applications with the dart programming language and Flask, Docker
 - 🌱 I’m currently learning Flutter, Dart language and Docker
 - 👯 I’m looking to collaborate on Flutter applications and Flask projects
 - 🤔 I’m looking for help with Data Structures and Algorithms in java
