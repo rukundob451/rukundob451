@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter, Dart language and containerizing applications with docker
 - 👯 I’m looking to collaborate on Flutter applications and Flask projects
 - 🤔 I’m looking for help with Data Structures and Algorithms in java
-- ⚡ Fun fact: Learning and striving to make a difference each and everyday
+- ⚡ Fun fact: Learning and striving to make a difference everyday
 
 ------------------------
 ## ☎️ Get in touch
