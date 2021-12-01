@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with Flutter Development, Flask and FastAPI.
 - 🌱 I’m currently learning Flutter and containerizing applications with docker.
 - 👯 I’m looking to collaborate on Flutter applications and Flask projects
-- 🤔 I’m looking for help with Data Structures and Algorithms in java
+- 🤔 I’m looking for help with DS and Algorithms in java
 - ⚡ Fun fact: Learning and striving to make a difference each and everyday.
 
 ------------------------
