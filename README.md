@@ -1,4 +1,4 @@
-### Hi, I'm Benjamin, a passionate programmer from Kampala, Uganda 👋
+### Hi, I'm Benjamin, a passionate programmer from Kampala, Uganda. 👋
 
 - 🔭 I’m currently working with Flutter, Flask and FastAPI
 - 🌱 I’m currently learning Data Structures and Algorithms in Java. I am learning Flutter and containerizing applications with docker/containerization
