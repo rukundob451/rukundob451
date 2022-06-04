@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms in Java. I am learning Java and containerizing applications with docker/containerization
 - 👯 I’m looking to collaborate on Flutter appns Flask SQLAlchemy and MERN stack.
 - 🤔 I’m looking for help with DS and Algorithms in java, javascript, php, mySQL and React.
-- ⚡ Fun fact: Learning and striving to make a difference each and everyday
+- ⚡ Fun fact: Learning and striving to make a difference each and everyday.
 
 ------------------------
 ## ☎️ Get in touch
