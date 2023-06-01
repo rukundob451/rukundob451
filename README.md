@@ -1,10 +1,9 @@
 ### Hi, I'm Benjamin, a passionate programmer from Kampala, Uganda👋
 
-- 🔭 I’m currently working with Flask and FastAPI
+- 🔭 I’m currently contributing to AsyncAPI
 - 🌱 I’m currently learning Data Structures and Algorithms in Java. I am learning Java and containerizing applications using docker
-- 👯 I’m looking to collaborate on Flutter appns Flask SQLAlchemy
-- 🤔 I’m looking for help with Data Structures and Algorithms in java, javascript, php, mySQL, React and java servlets.
-- ⚡ Fun fact: Learning and striving to make a difference each and everyday
+- 👯 I’m looking for collaborations on projects
+- ⚡ Fun fact: Learning and striving to make a difference each and everyday in each of the following java, javascript, php, mySQL, React
 
 ------------------------
 ## ☎️ Get in touch
