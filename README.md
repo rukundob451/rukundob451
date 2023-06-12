@@ -39,6 +39,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rukundob451&theme=gruvbox)](https://github.com/rukundob451/github-profile-trophy)
 
 
-### GitHub Activity Graph
+<!--- ### GitHub Activity Graph
 
-[![Benjamin Rukundo's github activity graph](https://activity-graph.herokuapp.com/graph?username=rukundob451&theme=react-dark)](https://github.com/rukundob451/github-readme-activity-graph)
+<!--[![Benjamin Rukundo's github activity graph](https://activity-graph.herokuapp.com/graph?username=rukundob451&theme=react-dark)](https://github.com/rukundob451/github-readme-activity-graph)
