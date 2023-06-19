@@ -1,6 +1,6 @@
 ### Hi, I'm Benjamin, a passionate programmer from Kampala, Uganda👋
 
-- 🔭 I’m currently contributing to AsyncAPI
+- 🔭 I’m currently contributing to [@asyncapi](https://github.com/asyncapi)
 - 🌱 I’m currently learning Data Structures and Algorithms in Java. I am learning Java and containerizing applications using docker
 - 👯 I’m looking for collaborations on projects
 - ⚡ Fun fact: Learning and striving to make a difference each and everyday in each of the following java, javascript, php, mySQL, React
